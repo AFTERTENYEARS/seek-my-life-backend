@@ -25,5 +25,5 @@ export const searchUserBy = async ({ userId }, /** connection = mysql */) => {
         nickName: 'tom',
         mobile: '17666111185',
         email: '1786188021@qq.com'
-    } 
+    }
 }
